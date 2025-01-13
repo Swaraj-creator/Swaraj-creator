@@ -145,10 +145,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Swaraj-creator/Swaraj-creator/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left"></p>
 
 ###
