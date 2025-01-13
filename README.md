@@ -5,8 +5,9 @@
 <p align="center">I am Swaraj Kashyap, born in Delhi, India. Compiling dreams globally.</p>
 
 ###
-
-![Cool animation](./coder.gif)
+<div align="center">
+  ![Cool animation](./coder.gif)
+</div>
 
 ###
 
