@@ -6,7 +6,7 @@
 
 ###
 <div align="center">
-  ![Cool animation](./coder.gif)
+  <image height="300px" src="" /> 
 </div>
 
 ###
