@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://github.com/Swaraj-creator/Swaraj-creator/coder.gif"  />
-</div>
+![Cool animation](./coder.gif)
 
 ###
 
