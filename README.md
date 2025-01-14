@@ -138,8 +138,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swaraj-creator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Stats" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swaraj-creator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=rose_pine&hide_border=true&order=2&custom_title=Languages%20I%20Love%20%E2%9D%A4%EF%B8%8F" height="130" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swaraj-creator&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contributions" height="260" alt="activity-graph graph"  />
 </div>
 
